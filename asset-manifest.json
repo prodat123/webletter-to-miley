@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/webletter-to-miley/static/css/main.4e18de5d.css",
-    "main.js": "/webletter-to-miley/static/js/main.406f0ced.js",
+    "main.css": "/webletter-to-miley/static/css/main.c3eb7b36.css",
+    "main.js": "/webletter-to-miley/static/js/main.e7a7a1c5.js",
     "static/media/NunitoSans-VariableFont_YTLC,opsz,wdth,wght.ttf": "/webletter-to-miley/static/media/NunitoSans-VariableFont_YTLC,opsz,wdth,wght.61b71ee93d55d9bddead.ttf",
     "static/media/pic6.jpeg": "/webletter-to-miley/static/media/pic6.077fcf3fe6fe2bc88693.jpeg",
     "static/media/pic7.jpeg": "/webletter-to-miley/static/media/pic7.7e75022095067a140989.jpeg",
@@ -12,11 +12,11 @@
     "static/media/pic11.jpeg": "/webletter-to-miley/static/media/pic11.14d2b3f8c300c7e5f673.jpeg",
     "static/media/pic8.jpeg": "/webletter-to-miley/static/media/pic8.3b29e6e7e0decee36c1f.jpeg",
     "index.html": "/webletter-to-miley/index.html",
-    "main.4e18de5d.css.map": "/webletter-to-miley/static/css/main.4e18de5d.css.map",
-    "main.406f0ced.js.map": "/webletter-to-miley/static/js/main.406f0ced.js.map"
+    "main.c3eb7b36.css.map": "/webletter-to-miley/static/css/main.c3eb7b36.css.map",
+    "main.e7a7a1c5.js.map": "/webletter-to-miley/static/js/main.e7a7a1c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e18de5d.css",
-    "static/js/main.406f0ced.js"
+    "static/css/main.c3eb7b36.css",
+    "static/js/main.e7a7a1c5.js"
   ]
 }
