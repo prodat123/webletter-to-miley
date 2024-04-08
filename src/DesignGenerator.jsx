@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import * as brain from 'brain.js';
 import Hero_Template from './hero/Hero_Template';
 import convert from 'color-convert';
 import Service_Template from './service/Service_Template';
