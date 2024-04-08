@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/webletter-to-miley/static/css/main.4e18de5d.css",
+    "main.js": "/webletter-to-miley/static/js/main.862fb241.js",
+    "static/media/placeholder.jpg": "/webletter-to-miley/static/media/placeholder.0b183c048cf0a7a3456b.jpg",
+    "static/media/Ambience 1.jpg": "/webletter-to-miley/static/media/Ambience 1.436ee10422726acf0bf9.jpg",
+    "static/media/Ambience 6.jpg": "/webletter-to-miley/static/media/Ambience 6.47deee594146c6bb11ad.jpg",
+    "static/media/Ambience 3.jpg": "/webletter-to-miley/static/media/Ambience 3.667d52ae4693b42f2e9c.jpg",
+    "static/media/IMG_8098.JPG": "/webletter-to-miley/static/media/IMG_8098.5329f66f3d45a0435f43.JPG",
+    "static/media/IVAN0476.JPG": "/webletter-to-miley/static/media/IVAN0476.8adf0de837f0e91e4e49.JPG",
+    "static/media/IVAN0739.JPG": "/webletter-to-miley/static/media/IVAN0739.b074b37f584c0811b6fc.JPG",
+    "static/media/IVAN1103.JPG": "/webletter-to-miley/static/media/IVAN1103.8511344a1033746ab256.JPG",
+    "static/media/_DSC0091.jpg": "/webletter-to-miley/static/media/_DSC0091.8fd48134b49bc95a1a07.jpg",
+    "static/media/_DSC0196.jpg": "/webletter-to-miley/static/media/_DSC0196.0697a90487bf808ed0cb.jpg",
+    "static/media/_DSC0148.jpg": "/webletter-to-miley/static/media/_DSC0148.464ac5d840e3b0e6fc3e.jpg",
+    "static/media/PromotionImage.jpeg": "/webletter-to-miley/static/media/PromotionImage.241f56457e2e1c51df68.jpeg",
+    "static/media/NunitoSans-VariableFont_YTLC,opsz,wdth,wght.ttf": "/webletter-to-miley/static/media/NunitoSans-VariableFont_YTLC,opsz,wdth,wght.61b71ee93d55d9bddead.ttf",
+    "static/media/HeroImage.jpeg": "/webletter-to-miley/static/media/HeroImage.be88f98fff3b6ee8cf6d.jpeg",
+    "static/media/Advertisement_Image1.jpeg": "/webletter-to-miley/static/media/Advertisement_Image1.227f4f39a5109f3300b7.jpeg",
+    "static/media/pic6.jpeg": "/webletter-to-miley/static/media/pic6.077fcf3fe6fe2bc88693.jpeg",
+    "static/media/pic7.jpeg": "/webletter-to-miley/static/media/pic7.7e75022095067a140989.jpeg",
+    "static/media/pic1.jpeg": "/webletter-to-miley/static/media/pic1.47b5424d6cbf9c130fe6.jpeg",
+    "static/media/pic4.jpeg": "/webletter-to-miley/static/media/pic4.622ac6d844d8db5ddaa3.jpeg",
+    "static/media/pic3.jpeg": "/webletter-to-miley/static/media/pic3.054b924645bfbce6068d.jpeg",
+    "static/media/pic10.jpeg": "/webletter-to-miley/static/media/pic10.60f3b9554221fef85535.jpeg",
+    "static/media/Soulfit-Logo.png": "/webletter-to-miley/static/media/Soulfit-Logo.021633808a7f335defa8.png",
+    "static/media/Mee Tjap Hokee logo.png": "/webletter-to-miley/static/media/Mee Tjap Hokee logo.ce02966a5b6da35afa1e.png",
+    "static/media/pic11.jpeg": "/webletter-to-miley/static/media/pic11.14d2b3f8c300c7e5f673.jpeg",
+    "static/media/pic8.jpeg": "/webletter-to-miley/static/media/pic8.3b29e6e7e0decee36c1f.jpeg",
+    "index.html": "/webletter-to-miley/index.html",
+    "main.4e18de5d.css.map": "/webletter-to-miley/static/css/main.4e18de5d.css.map",
+    "main.862fb241.js.map": "/webletter-to-miley/static/js/main.862fb241.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e18de5d.css",
+    "static/js/main.862fb241.js"
+  ]
+}
